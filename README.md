@@ -42,7 +42,7 @@ Feature	Description	Benefit:**
 --> Download all project files
 --> Create a folder named MiCrochet_Website
 --> Place all files in this folder
-**3. Option C ** - Download as ZIP
+**3. Option C** - Download as ZIP
 --> Go to the GitHub repository
 --> Click Code
 --> Select Download ZIP
